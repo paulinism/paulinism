@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-### 🎓 B.S. in Mechatronics Engineer Student  
+### ⚡| B.S. in Mechatronics Engineer Student  
 
 ### 🔧 Favourite Tools  
 - **Languages**: C, Python, JavaScript  
 - **Frameworks/Environments**: ESP-IDF, PlatformIO  
-- **Hardware**: ESP32, BLDC motors  
+- **Hardware**: ESP32, BLDC motors, STM32
 
 ### 🤝 Contact Me!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulinaruizs27)  
