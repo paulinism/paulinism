@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 ## B.S. in Mechatronics Engineer Student 
 
 ##🔧 Favourite tools
-Languages: C, Python, JavaScript
-Frameworks/Entornos: ESP-IDF, PlatformIO
-Hardware: ESP32, BLDC motors
+n\ Languages: C, Python, JavaScript
+n\ Frameworks/Entornos: ESP-IDF, PlatformIO
+n\ Hardware: ESP32, BLDC motors
 
 ##🤝 Contact me!
-💼 www.linkedin.com/in/paulinaruizs27
-📧 pruizservin27@gmail.com
+n\ 💼 www.linkedin.com/in/paulinaruizs27
+n\ 📧 pruizservin27@gmail.com
