@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### 🤝 Contact Me!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulinaruizs27)  
-- 📧 [pruizservin27@gmail.com](mailto:pruizservin27@gmail.com)
+- 📧 [email](mailto:pruizservin27@gmail.com)
