@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 ### ⚡| B.S. in Mechatronics Engineer Student  
 
-### 🔧 Favourite Tools  
+### 🔧 Tools  
 - **Languages**: C, Python, MATLAB  
 - **Frameworks/Environments**: ESP-IDF, PlatformIO  
-- **Hardware**: ESP32, BLDC motors, STM32
+- **Hardware**: ESP32, BLDC motors
 
 ### 🤝 Contact Me!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulinaruizs27)  
