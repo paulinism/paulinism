@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 ### ⚡| B.S. in Mechatronics Engineer Student  
 
 ### 🔧 Tools  
-- **Languages**: C++, MATLAB, C, Python
-- **Frameworks/Environments**: ESP-IDF, PlatformIO  
+- **Languages**: C++, Python, MATLAB, C,
+- **Frameworks/Environments**: PlatformIO, ESP-IDF
 - **Hardware**: ESP32
 
 ### 🤝 Contact Me!  
