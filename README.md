@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### 🔧 Tools  
 - **Languages**: C++, Python, MATLAB, C,
 - **Frameworks/Environments**: PlatformIO, ESP-IDF
-- **Hardware**: ESP32
+- **Hardware**: ESP32, Arduino
 
 ### 🤝 Contact Me!  
 - 💼 [LinkedIn](www.linkedin.com/in/pruizservin27)  
