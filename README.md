@@ -1,1 +1,1 @@
-<img width="1267" height="700" alt="github_ascii_card_color" src="https://github.com/user-attachments/assets/1901cae1-dd32-41e1-a3cd-f912dfa9e5b8" />
+<img width="1267" height="700" alt="github_ascii_card_color (1)" src="https://github.com/user-attachments/assets/8346d0a5-baa9-4f51-a634-b019fae8f9d6" />
